@@ -1,3 +1,2 @@
 # first
-print(hello world)
-print(ddd)
+print(it's a tensorflow-based CNN model folder)
